@@ -2,17 +2,23 @@
 
 ## Vergeben
 
+* Notenverwaltung für Dozenten/Studis
+* textbasiertes RPG
+* Spielesammlung
+* Schach
+* Passwort-Manager
+* NBA Companion App
+* Morsecode-Trainer
+* Dart Companion App
+* Chat-Applikation
+
 ## Angefragt
 
-* Chat-Applikation
 * Spotify-Client
 * Adressbuch
-* Schach
-* Spielesammlung
-* textbasiertes RPG
-* Notenverwaltung für Dozenten/Studis
-* Passwort-Manager
-* ToDo-Listen-Verwaltung
 * Turnier/Liga-Planer
 * E-Mail-Server
-
+* Spiel "Erforschung von Exoplaneten"
+* Vokabeltrainer
+* Spiel "Where in the World is Carmen Sandiego"
+* Poker
