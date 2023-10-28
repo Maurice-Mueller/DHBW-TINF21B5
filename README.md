@@ -10,3 +10,13 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * Fragen & Antworten
 * Software-Architektur
   * bis einschließlich "Konkretes Vorgehen | Umsetzung begleiten"
+
+## 2023-10-17
+* Software-Architektur
+  * bis einschließlich 'Monolith'
+
+## 2023-10-24
+* Software-Architektur
+  * komplett
+* DDD
+  * bis ausschließlich 'Bounded Context'
