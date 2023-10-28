@@ -11,14 +11,18 @@
 * Morsecode-Trainer
 * Dart Companion App
 * Chat-Applikation
+* Spiel "Where in the World is Carmen Sandiego"
+* Vokabeltrainer
+* Quiz / Wer wird Millionär
+* E-Mail-Server
+* Poker
+* Lagerverwaltungssystem (LVS)
 
 ## Angefragt
 
 * Spotify-Client
 * Adressbuch
 * Turnier/Liga-Planer
-* E-Mail-Server
 * Spiel "Erforschung von Exoplaneten"
-* Vokabeltrainer
-* Spiel "Where in the World is Carmen Sandiego"
-* Poker
+* Smarter Kalender
+* Charakter-Erstellung RPG
