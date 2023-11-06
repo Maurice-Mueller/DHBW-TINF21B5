@@ -17,12 +17,13 @@
 * E-Mail-Server
 * Poker
 * Lagerverwaltungssystem (LVS)
+* Spiel "Erforschung von Exoplaneten"
 
 ## Angefragt
 
 * Spotify-Client
 * Adressbuch
 * Turnier/Liga-Planer
-* Spiel "Erforschung von Exoplaneten"
 * Smarter Kalender
-* Charakter-Erstellung RPG
+* Kochbuch
+* Pacman
