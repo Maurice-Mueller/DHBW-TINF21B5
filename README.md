@@ -20,3 +20,7 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * komplett
 * DDD
   * bis ausschließlich 'Bounded Context'
+
+## 2023-10-31
+* DDD
+  * komplett
