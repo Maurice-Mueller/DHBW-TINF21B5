@@ -18,12 +18,14 @@
 * Poker
 * Lagerverwaltungssystem (LVS)
 * Spiel "Erforschung von Exoplaneten"
+* Flugbuchungssystem
+* Adressbuch
 
 ## Angefragt
 
 * Spotify-Client
-* Adressbuch
 * Turnier/Liga-Planer
 * Smarter Kalender
 * Kochbuch
 * Pacman
+* Lieder-Export
