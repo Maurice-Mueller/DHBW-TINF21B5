@@ -24,3 +24,9 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 ## 2023-10-31
 * DDD
   * komplett
+
+## 2023-11-07
+* SOLID
+  * komplett
+* GRASP
+  * bis ausschließlich 'Polymorphie'
