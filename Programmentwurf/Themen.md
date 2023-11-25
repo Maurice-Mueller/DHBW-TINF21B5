@@ -20,6 +20,7 @@
 * Spiel "Erforschung von Exoplaneten"
 * Flugbuchungssystem
 * Adressbuch
+* Serververwaltung
 
 ## Angefragt
 
