@@ -30,3 +30,13 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * komplett
 * GRASP
   * bis ausschließlich 'Polymorphie'
+
+## 2023-11-21
+* GRASP
+  * komplett
+* Prinzipien in der Softwareentwicklung
+  * komplett
+* Entwurfsmuster
+  * Einleitung
+  * bis "Problem 3" des Listener-Patterns 
+
