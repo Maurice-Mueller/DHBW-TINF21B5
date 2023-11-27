@@ -21,12 +21,12 @@
 * Flugbuchungssystem
 * Adressbuch
 * Serververwaltung
+* Smarter Kalender
 
 ## Angefragt
 
 * Spotify-Client
 * Turnier/Liga-Planer
-* Smarter Kalender
 * Kochbuch
 * Pacman
 * Lieder-Export
