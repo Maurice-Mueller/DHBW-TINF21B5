@@ -40,3 +40,15 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * Einleitung
   * bis "Problem 3" des Listener-Patterns 
 
+## 2023-11-28
+* Entwurfsmuster
+  * Dekorierer
+  * Singleton
+
+## 2023-12-05
+* Entwurfsmuster
+  * Adapter
+  * Builder
+  * Strategy
+  * Kompositum
+* Clean Architecture
