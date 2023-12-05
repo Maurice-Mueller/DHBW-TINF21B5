@@ -3,6 +3,8 @@
 Alle schriftlichen Informationen zum Programmentwurf sind unter "Programmentwurf" abgelegt.
 Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 
+Das gemeinsame Testprojekt liegt hier: https://github.com/Maurice-Mueller/DHBW-TINF21B5-DMS
+
 ## 2023-10-10
 
 * Programmentwurf
