@@ -22,6 +22,7 @@
 * Adressbuch
 * Serververwaltung
 * Smarter Kalender
+* News-Aggregator
 
 ## Angefragt
 
