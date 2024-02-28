@@ -54,3 +54,13 @@ Das gemeinsame Testprojekt liegt hier: https://github.com/Maurice-Mueller/DHBW-T
   * Strategy
   * Kompositum
 * Clean Architecture
+
+## 2024-02-20 (online)
+* Refactoring
+  * bis einschließlich 'Code Smells'
+
+## 2024-02-27
+* Refactoring (komplett)
+* Softwaretests
+  * bis 'Testen der Tests'
+
