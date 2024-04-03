@@ -64,7 +64,18 @@ Das gemeinsame Testprojekt liegt hier: https://github.com/Maurice-Mueller/DHBW-T
 * Softwaretests
   * bis 'Testen der Tests'
 
-## 2024-03-06
+## 2024-03-05
 * Softwaretests (komplett)
 * API-Design
   * bis Qualitätsmerkmale
+
+## 2024-03-12 (remote)
+* API-Design
+  * bis "Vorgehen beim Entwurf"
+
+
+## 2024-03-19
+* API-Design
+  * bis Ende
+  * "Vorgehen beim Entwurf" übersprungen
+
